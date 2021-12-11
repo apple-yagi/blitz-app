@@ -2,6 +2,7 @@ lockfileVersion: 5.3
 
 specifiers:
   "@prisma/client": 3.6.0
+  "@types/node": 16.11.12
   "@types/preview-email": 2.0.1
   "@types/react": 17.0.37
   blitz: 0.44.3
@@ -30,6 +31,7 @@ dependencies:
   zod: 3.11.6
 
 devDependencies:
+  "@types/node": 16.11.12
   "@types/preview-email": 2.0.1
   "@types/react": 17.0.37
   eslint: 7.32.0
@@ -3341,7 +3343,7 @@ packages:
         integrity: sha512-cIAKJXAxGJceNZGTZSBzMxzyOn72cVgPnKx4dc6LRjQgbaJUQqhy5rzL3zbMxkMWsGKkv2hSFkPRMEXfoMZ2Mg==,
       }
     dependencies:
-      "@babel/runtime": 7.12.5
+      "@babel/runtime": 7.16.3
       detect-node: 2.1.0
       js-sha3: 0.8.0
       microseconds: 0.2.0
@@ -8456,7 +8458,7 @@ packages:
         integrity: sha512-mxybbo3pPNuA+ZuCUhm5bwNkXrJTbsk5VWbR5wiwz/GC6LIiegBGn2w3O08UG/jdbYLinw51fSQ5xNU1U3MgBw==,
       }
     dependencies:
-      "@babel/runtime": 7.12.5
+      "@babel/runtime": 7.16.3
       remove-accents: 0.4.2
     dev: false
 
@@ -10242,7 +10244,7 @@ packages:
       react-native:
         optional: true
     dependencies:
-      "@babel/runtime": 7.12.5
+      "@babel/runtime": 7.16.3
       broadcast-channel: 3.7.0
       match-sorter: 6.3.1
       react: 18.0.0-beta-149b420f6-20211119
@@ -12211,7 +12213,7 @@ packages:
         integrity: sha512-B60uB5TNBLtN6/LsgAf3udH9saB5p7gqJwcFfbOEZ8BcBHnGwCf6G/TGiEqkRAxX7zAFIUtzdrXQSdL3Q/wqNA==,
       }
     dependencies:
-      "@babel/runtime": 7.12.5
+      "@babel/runtime": 7.16.3
       detect-node: 2.1.0
     dev: false
 
